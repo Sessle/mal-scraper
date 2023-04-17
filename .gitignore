@@ -1,0 +1,7 @@
+/build/
+/.gradle/
+/.idea/
+/.github/
+/.github/workflows/
+/json/mal/output/anime/scraped
+/json/mal/output/characters/scraped
